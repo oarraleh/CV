@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9023537.css",
+    "main.js": "/static/js/main.28929804.js",
+    "static/js/377.2bf5b29e.chunk.js": "/static/js/377.2bf5b29e.chunk.js",
+    "static/media/Portfolio.png": "/static/media/Portfolio.6e823ad511e1709fc1b3.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.fd630bddcb60d5c52073.jpg",
+    "static/media/Omar-Arraleh .pdf": "/static/media/Omar-Arraleh .b482ca0a62e59565b8bf.pdf",
+    "static/media/Covidapp.png": "/static/media/Covidapp.8c69dc28198b37f49d6e.png",
+    "static/media/home-image.png": "/static/media/home-image.4cffc3d90063455ff921.png",
+    "static/media/Syrian.png": "/static/media/Syrian.c04e6c9449487b47ff89.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/static/media/logo.ac688f9497a2e39c611b.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.b9023537.css.map": "/static/css/main.b9023537.css.map",
+    "main.28929804.js.map": "/static/js/main.28929804.js.map",
+    "377.2bf5b29e.chunk.js.map": "/static/js/377.2bf5b29e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9023537.css",
+    "static/js/main.28929804.js"
+  ]
+}
